@@ -11,15 +11,16 @@ class CONF {
     public $DB_PASSWORD = "40tpS.01!b";
     public $DB_NAME     = "epiz_28032991_w379";
 
-    /* FCM key for notification */
-    public $FCM_KEY     = "AIzaSyBsOf7DurXXXXXXXXXXXXXXXXXXXXXXXXX";
+    /* FCM key for notification Firebase*/
+    public $FCM_KEY     = "AAAAljxCLZg:APA91bExrJLIGf5CDd-YZUiSj0jxjmSLVl1icMFYV9r0LmYXoehLAeM-73zocBLTcJk728UvynaNm0He2mp5f01ldOgsHhLdpUKGQDKcPc9K0lkYoJ0jRtqnVtG_cqvmq3ygwI-aihHl	
+    ";
 
     public $FCM_TOPIC   = "/topics/ALL-DEVICE";
 
 
     /* [ IMPORTANT ] be careful when edit this security code, use AlphaNumeric only*/
     /* This string must be same with security code at Android, if its different android unable to submit data */
-    public $SECURITY_CODE = "8V06LupAaMBLtQqyqTxmcN42nn27FlejvaoSM3zXchjyqsgkhsqhbdkjgXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+    public $SECURITY_CODE = "ljqxrcHxgldmQsTxr4YiZAm2O5wWO8H77yxdizYHnJtmtCN5sA";
 
     /* Mailer config ---------------------------------------------------- */
 
