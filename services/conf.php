@@ -6,10 +6,10 @@ class CONF {
     public $DEMO_VERSION = false;
 
     /* Data configuration for database */
-    public $DB_SERVER   = "sql302.byetcluster.com";
-    public $DB_USER     = "28032991_2";
-    public $DB_PASSWORD = "40tpS.01!b";
-    public $DB_NAME     = "epiz_28032991_w379";
+    public $DB_SERVER   = "localhost";
+    public $DB_USER     = "rene_panel";
+    public $DB_PASSWORD = "B8ghCeJz71qnubzP";
+    public $DB_NAME     = "rene_renews";
 
     /* FCM key for notification Firebase*/
     public $FCM_KEY     = "AAAAljxCLZg:APA91bExrJLIGf5CDd-YZUiSj0jxjmSLVl1icMFYV9r0LmYXoehLAeM-73zocBLTcJk728UvynaNm0He2mp5f01ldOgsHhLdpUKGQDKcPc9K0lkYoJ0jRtqnVtG_cqvmq3ygwI-aihHl	
